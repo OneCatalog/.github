@@ -17,7 +17,9 @@
 | Платформа | Репозиторий | Статус |
 |---|---|---|
 | WordPress + WooCommerce *(эталон)* | [onecatalog-woocommerce](https://github.com/OneCatalog/onecatalog-woocommerce) | ✅ |
-| 1С-Битрикс · Bitrix24 · PrestaShop · OpenCart · Magento 2 · Shopify · BigCommerce · Drupal Commerce · Joomla · МойСклад · RetailCRM · Megaplan · Moguta · NetCat · Shop-Script · PHPShop · UMI · SAP | — | 🔜 планируются ([планы](https://github.com/OneCatalog/onecatalog-standard/tree/main/integration-reviews)) |
+| 1С:Предприятие — Управление Торговлей 11.5 *(импорт в ERP)* | [onecatalog-1c](https://github.com/OneCatalog/onecatalog-1c) | ✅ `v1.1.3` |
+| 1С-Битрикс | [onecatalog-bitrix](https://github.com/OneCatalog/onecatalog-bitrix) | 🚧 в разработке |
+| Bitrix24 · PrestaShop · OpenCart · Magento 2 · Shopify · BigCommerce · Drupal Commerce · Joomla · МойСклад · RetailCRM · Megaplan · Moguta · NetCat · Shop-Script · PHPShop · UMI · SAP | — | 🔜 планируются ([планы](https://github.com/OneCatalog/onecatalog-standard/tree/main/integration-reviews)) |
 
 ## 🎯 Принципы
 
